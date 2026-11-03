@@ -1,0 +1,21 @@
+# Automated Network Security Scanner & Port Mapper (NetScan Sentinel)
+# ===================================================================
+# This application is engineered exclusively with the Python 3.8+ 
+# Standard Library and requires NO external third-party dependencies.
+#
+# Standard Library Modules Utilized:
+#   - socket
+#   - ssl
+#   - concurrent.futures
+#   - ipaddress
+#   - argparse
+#   - json
+#   - threading
+#   - dataclasses
+#   - time
+#   - datetime
+#   - os
+#   - sys
+#   - re
+#   - typing
+
